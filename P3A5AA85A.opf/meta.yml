@@ -1,0 +1,29 @@
+id: P3A5AA85A
+initial_creation_type: input
+source_metadata:
+  title: Accounts of the Kālacakra lineage masters by sTong ra Kun dga legs grub (unfinished)
+  author: སྟོང་ར་ཀུན་དགའ་ལེགས་གྲུབ།
+  description: 'Digital version 1.0 {Tibetan}; master xml (completed: 2020-04-13);
+    unrevised OCR version, no thematic TEI markup'
+  source: https://sakyaresearch.org
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:Google Docs, OCR-processed (Tesseract)
+  - Editorial process:Mathias Fermer (mf), སྨོན་བཟང་དཔེ་རྙིང་འཚོལ་བསྡུ་ཁང་། (eds)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/4724
+  bases:
+    04a4:
+      title: Accounts of the Kālacakra lineage masters by sTong ra Kun dga legs grub
+        (unfinished)
+      order: 1
+      base_file: 04a4.txt
+created_at: '2022-04-15T18:51:34.990290'
+last_modified_at: '2022-04-15T18:51:34.990300'
+quality: null
